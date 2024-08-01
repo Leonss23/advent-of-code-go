@@ -1,8 +1,8 @@
 package main
 
 import (
+	"aoc/utils"
 	"fmt"
-	utils "go-stuff/aoc"
 	"strconv"
 	"strings"
 	"unicode"
